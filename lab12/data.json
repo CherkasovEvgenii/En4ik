@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Основы Python",
+    "category": "Программирование",
+    "amount": 10,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Базы данных",
+    "category": "Программирование",
+    "amount": 8,
+    "completed": true
+  }
+]
